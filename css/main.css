@@ -1,0 +1,76 @@
+html{
+  width: 100%;
+  height: 100vh;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(#403075, #882D61);
+}
+
+.main{
+  display: flex;
+  position: relative;
+  margin-left: 4px;
+}
+
+.white_tab{
+  width: 50px;
+  height: 140px;
+  background-color: #ffffff!important;
+  border: 4px solid #000000!important;
+  border-radius: 0 0 6px 6px;
+  margin-left: -4px;
+  outline: none;
+  cursor: pointer;
+}
+
+.black_tab{
+  position: absolute;
+  width: 30px;
+  height: 100px;
+  background-image: linear-gradient(#000000, #303030);
+  border: 3px solid #000000;
+  border-radius: 0 0 2px 2px;
+  outline: none;
+  cursor: pointer;
+}
+
+.a{
+  left: 30px;
+}
+
+.b{
+  left: 75px;
+}
+.c{
+  left: 165px;
+}
+.d{
+  left: 210px;
+}
+.e{
+   left: 259px;
+}
+.f{
+  left: 350px;
+}
+.g{
+  left: 395px;
+}
+.h{
+  left: 490px;
+}
+.i{
+  left: 535px;
+}
+.j{
+  left: 580px;
+}
+
+
